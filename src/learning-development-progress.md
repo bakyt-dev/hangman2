@@ -4,7 +4,7 @@
 1. This is my second attempt to build a first project from the Sergei Zhukov's Java Roadmap - https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/
 2. Even though the project is very basic I have faced difficulties from the beginnig as I have zero coding experience.
 
-### Note #1
+### Note #1 - 07/09/2025
 The very first Hangman project I built basicly by using the _Claude_ (which generated 99% of the code base).
 Since I grasp new things from the "top to down" ("general to specific") the goal was to understand a big picture of the project through analizing Java program flow (what's going on after clicking _Run_ on IDE) and class design, methods, variables etc.
 
