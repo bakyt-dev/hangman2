@@ -8,7 +8,8 @@
 The very first Hangman project I built basicly by using the _Claude_ (which generated 99% of the code base).
 Since I grasp new things from the "top to down" ("general to specific") the goal was to understand a big picture of the project through analizing Java program flow (what's going on after clicking _Run_ on IDE) and class design, methods, variables etc. 
 
-The big problem: decomposition 
+The big problem: decomposition.
+
 What's done:
 - watched: OOP decomposition of the game "Four in a row" from the TG community chanel
 - watched: https://www.youtube.com/live/3ox5DI_xAog
