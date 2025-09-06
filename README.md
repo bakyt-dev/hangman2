@@ -10,7 +10,7 @@ Since I grasp new things from the "top to down" ("general to specific") the goal
 
 The big problem: decomposition.
 
-What's done:
+Done:
 - watched: OOP decomposition of the game "Four in a row" from the TG community chanel
 - watched: https://www.youtube.com/live/3ox5DI_xAog
 - read: Java program flow, Java Terminology: Properties vs Values vs Variables vs Fields vs Attributes, Guide to Object-Oriented Relationships, Java Class Organization Standards
