@@ -20,3 +20,16 @@ Since I grasp new things from the "top to down" ("general to specific") the goal
 <img width="1426" height="968" alt="image" src="https://github.com/user-attachments/assets/e0311159-9482-404d-919f-98cfcc4ad64b" />
 
 <img width="1624" height="1582" alt="image" src="https://github.com/user-attachments/assets/67b4ff7d-6917-4f32-afbf-029b1a592873" />
+
+
+### Note #2 - 13/09/2025
+
+**Problems**: GuessManager&&HangmanDraw classes design
+
+**Done**:
+- Learned String[] (array of String objects):
+- - https://www.w3schools.com/java/java_arrays.asp
+- Learned ArrayList<>, HashSet<>
+- - https://www.youtube.com/watch?v=wsTSREgCE5E&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=56
+- - https://www.youtube.com/watch?v=QvHBHuuddYk
+- Learned Primitive data types && Non-primitive data types
