@@ -1,5 +1,6 @@
 package com.hangman.game;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 
 
@@ -35,6 +36,9 @@ public class GuessManager {
         return incorrectGuesses.size();
     }
 
+    public HashSet<Character> getCorrectGuesses() {
+        return correctGuesses;
+    }
 
 
 }

@@ -1,4 +1,4 @@
-# DETAILED DEVELOPMENT && LEARNING PROGRESS
+# DEVELOPMENT && LEARNING PROGRESS
 
 ## Hangman
 1. This is my second attempt to build a first project from the Sergei Zhukov's Java Roadmap - https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/
@@ -33,3 +33,12 @@ Since I grasp new things from the "top to down" ("general to specific") the goal
 - - https://www.youtube.com/watch?v=wsTSREgCE5E&list=PLZPZq0r_RZOOj_NOZYq_R2PECIMglLemc&index=56
 - - https://www.youtube.com/watch?v=QvHBHuuddYk
 - Learned Primitive data types && Non-primitive data types
+
+### Note #3 - 14/09/2025
+
+**Problems**: GameController class design
+
+**Done**:
+- Learned while loop
+- Learned Scanner
+- Learned if\else conditions

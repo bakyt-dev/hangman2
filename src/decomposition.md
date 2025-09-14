@@ -20,3 +20,9 @@
 ### game. single responsibility - control the loop cycle
 - fields: 
 - methods: 
+
+
+#### Player 
+-> chooses -> theEndGame -> startGame  
+-> 
+
