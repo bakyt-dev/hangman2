@@ -1,8 +1,5 @@
 package com.hangman.game;
 
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.HashSet;
 import java.util.Scanner;
 
 public class GameController {
@@ -21,7 +18,7 @@ public class GameController {
         this.scanner = new Scanner(System.in);
     }
 
-    public void initialPlayerChose() {
+    public void initialPlayerChoice() {
         System.out.println("\nWelcome to HANGMAN game!");
         System.out.println("\nWant to start a game? (Y/N): ");
         String initialGame = this.scanner.nextLine();
