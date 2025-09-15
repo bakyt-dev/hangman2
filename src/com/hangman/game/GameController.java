@@ -37,7 +37,7 @@ public class GameController {
     public void startGame() {
 
         String randomWord = this.wordManager.getRandomWord();
-        System.out.println(randomWord);
+        //System.out.println(randomWord);
 
         while (!this.guessManager.isGameOver() &&
                 !this.wordManager.isWordComplete(this.guessManager.getCorrectGuesses())) {
