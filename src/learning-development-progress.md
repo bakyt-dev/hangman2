@@ -1,7 +1,7 @@
 # DEVELOPMENT && LEARNING PROGRESS
 
 ## Hangman
-1. This is my second attempt to build a first project from the Sergei Zhukov's Java Roadmap - https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/
+1. This is my second attempt to build a first project from the Sergey Zhukov's Java Roadmap - https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/
 2. Even though the project is very basic I have faced difficulties from the beginnig as I have zero coding experience.
 
 ### Note #1 - 07/09/2025
